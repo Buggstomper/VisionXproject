@@ -67,7 +67,7 @@ The model follows a **U-Net inspired CNN architecture**, consisting of:
 ---
 
 🔬 **Developed for VisionX Hackathon by Qualcomm**  
-💡 **Team Name:** *Your Team Name Here*  
+💡 **Team Name:** *weshowspeed(Dishank Vyas, Shaman Shetty, Krishna Shetty, Aryan Tiwari)*  
 
 🚀 **Removing Reflections, Enhancing Reality!**
 
